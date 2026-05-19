@@ -20,10 +20,9 @@ Although CASCADE and OASIS are both used for spike inference, they use fundament
 
 ## Demo
 
+https://github.com/user-attachments/assets/f33c9c5e-7c7c-4ddf-91ba-cff847b20bec
 
-https://github.com/user-attachments/assets/94bf5f07-bdaf-4e33-8e1c-00d5dd3b3b61
-
-The [video demo](videos/suite2p_cascade_oasis_realtime.mp4) visualizes one selected Suite2p ROI on the original two-photon movie and shows the raw $\Delta F/F$ trace beside the CASCADE and OASIS spike inference outputs.
+The video demo visualizes one selected Suite2p ROI on the original two-photon movie and shows the raw $\Delta F/F$ trace beside the CASCADE and OASIS spike inference outputs.
 
 ## Approach
 
